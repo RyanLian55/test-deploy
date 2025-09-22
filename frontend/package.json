@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "vercel-build": "next build --output public",
     "start": "next start"
   },
   "dependencies": {
